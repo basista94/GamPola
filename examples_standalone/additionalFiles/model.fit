@@ -1,0 +1,20 @@
+#par_name,          initial Value,     type of parameter     low limit,          up limit,           step
+thetaK1:                1.042,          unspecified,                  0,              3.14,              0.01;
+phiDK*:                 0.,             unspecified,                  0.,                 6.28,               0.01;
+phiSRho:                0.,             unspecified,                  0.,                 6.28,               0.01;
+phiDRho:                0.,             unspecified,                  0.,                 6.28,               0.01;
+lambda:                 0.2,            unspecified,            0,                  1,                  0.01;
+ffRe_1400:              0.,           unspecified,            0.,                 2.,                 0.01;
+ffIm_1400:              0.,             unspecified,            0.,                 2.,                 0.01;
+gg3Kstr_1410:           0.,             unspecified,                  -1.5,               2.,                 0.01;
+gg3ImKstr_1410:         0.,             unspecified,                  -1.5,               2.,                 0.01;
+gg3Rho_1410:            0.,             unspecified,            -1.5,               2.,                 0.01;
+gg3ImRho_1410:          0.,             unspecified,            -1.5,               2.,                 0.01;
+gg4Kstr_1680:           0.0,            unspecified,                  -1.5,               2.,                 0.01;
+gg4ImKstr_1680:         0.,             unspecified,                  -1.5,               2.,                 0.01;
+gg4Rho_1680:            0.,             unspecified,            -1.5,               2.,                 0.01;
+gg4ImRho_1680:          0.,             unspecified,            -1.5,               2.,                 0.01;
+gg5Kstr_1430:           0.0,            unspecified,                  -1.5,               2.,                 0.01;
+gg5ImKstr_1430:         0.0,            unspecified,                  -1.5,               2.,                 0.01;
+gg5Rho_1430:            0.,             unspecified,            -1.5,               2.,                 0.01;
+gg5ImRho_1430:          0.,             unspecified,            -1.5,               2.,                 0.01;

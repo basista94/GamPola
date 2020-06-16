@@ -1,0 +1,4 @@
+#!/bin/sh
+sed -i 's/conjugate/std::conj/g' $1
+g++ -fpic -c $1 -o $1.o
+g++ -shared -o $1.so $1.o

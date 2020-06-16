@@ -1,0 +1,15 @@
+#par_name,          initial Value,     type of parameter     low limit,          up limit,           step
+ffRe_1400:              0.,           unspecified,            0.,                 2.,                 0.01;
+ffIm_1400:              0.,             unspecified,            0.,                 2.,                 0.01;
+gg3Kstr_1410:           1.,             unspecified,                  -1.5,               2.,                 0.01;
+gg3ImKstr_1410:         0.,             unspecified,                  -1.5,               2.,                 0.01;
+gg3Rho_1410:            1.,             unspecified,            -1.5,               2.,                 0.01;
+gg3ImRho_1410:          0.,             unspecified,            -1.5,               2.,                 0.01;
+gg4Kstr_1680:           1.,            unspecified,                  -1.5,               2.,                 0.01;
+gg4ImKstr_1680:         0.,             unspecified,                  -1.5,               2.,                 0.01;
+gg4Rho_1680:            1.,             unspecified,            -1.5,               2.,                 0.01;
+gg4ImRho_1680:          0.,             unspecified,            -1.5,               2.,                 0.01;
+gg5Kstr_1430:           1.,            unspecified,                  -1.5,               2.,                 0.01;
+gg5ImKstr_1430:         0.,            unspecified,                  -1.5,               2.,                 0.01;
+gg5Rho_1430:            1.,             unspecified,            -1.5,               2.,                 0.01;
+gg5ImRho_1430:          0.,             unspecified,            -1.5,               2.,                 0.01;
